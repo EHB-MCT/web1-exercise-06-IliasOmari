@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
+body {
+    font-family: 'Abel', sans-serif;
+}
+
+
+.wrapper {
+    background-image: url(images/coco.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 1400px;
+    height: 700px;
+    margin: 0 auto;
+
+
+
+}
+
+.logo {
+    position: relative;
+    float: right;
+
+    width: 49%;
+    height: 30px;
+}
+
+.logo img {
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+
+
+h1 {
+    color: white;
+    margin-top: 50px;
+}
+
+p {
+    color: white;
+    margin-bottom: 50px;
+}
+
+.tickets a {
+
+    color: white;
+    margin-top: 500px;
+    border: solid coral;
+    border-radius: 10px;
+    background-color: coral;
+    padding: 10px;
+    text-decoration: none;
+    position: relative;
+}
